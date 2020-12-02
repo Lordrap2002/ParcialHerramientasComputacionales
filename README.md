@@ -2,7 +2,7 @@
 
 El problema a resolver trata sobre las cafeterias de la universidad, las cuales desean otorgar descuentos a sus clientes dependiendo de su rol.
 
-El archivo que resuelve este problema se llama cafeteria.py.
+El archivo que resuelve este problema se llama _cafeteria.py_.
 
 El algoritmo recibe como entrada los siguientes datos en este orden: 
   * Numero de cedula del cliente: Tipo de dato: Numero entero.
