@@ -1,6 +1,6 @@
 def cafeteria():
     n=input("Introduzca su cedula:")
-    r=input("Rol:")
+    r=input("Introduzca su Rol:")
     cod=int(input("Codigo del Producto:"))
     u=int(input("Cuantos va a llevar:"))
     v=int(input("Precio del Proudcto:"))
