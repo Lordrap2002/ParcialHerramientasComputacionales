@@ -21,3 +21,5 @@ La salida del algoritmo es una cadena que contiene los siguientes datos:
    + ”El **_(1)_** con cedula **_(2)_**, debe pagar **_(3)_** por el producto **_(4)_**”
     
 Para encontrar el valor total a pagar, primero, el algoritmo multiplica el valor del producto por la cantidad de producto a llevar, despues, dependiendo del rol de cliente, calcula el valor con  el descuento multiplicando el total por 1 menos el porcentaje de descuento.
+
+El archivo de texto _Parcial1_1(b)_ responde a los errores que se podrian presentar y las estrategias para solucionarlos.
