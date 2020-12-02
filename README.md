@@ -5,11 +5,11 @@ El problema a resolver trata sobre las cafeterias de la universidad, las cuales 
 El archivo que resuelve este problema se llama cafeteria.py.
 
 El algoritmo recibe como entrada los siguientes datos en este orden: 
-  -Numero de cedula del cliente: Tipo de dato: Numero entero.
-  -Rol del cliente: Tipo de dato: Una de dos cadenas, "profesor" o "estudiante":
-  -Codigo del producto: Tipo de dato: Numero entero.
-  -Cantidad del producto: Tipo de dato: Numero entero.
-  -Precio del producto: Tipo de dato: Numero entero.
+  Numero de cedula del cliente: Tipo de dato: Numero entero.
+  Rol del cliente: Tipo de dato: Una de dos cadenas, "profesor" o "estudiante":
+  Codigo del producto: Tipo de dato: Numero entero.
+  Cantidad del producto: Tipo de dato: Numero entero.
+  Precio del producto: Tipo de dato: Numero entero.
   
 La salida del algoritmo es una cadena que contiene los siguientes datos:
   1. Rol del cliente.
