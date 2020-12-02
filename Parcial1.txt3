@@ -1,0 +1,5 @@
+1. ¿Qué tipo de errores se presentaron o se pueden presentar con su implementación al
+problema?
+Como es un procedimiento sencillo no deberían presentar muchos problemas al hacer procedimientos con números, sin embargo, se presentaría un error si cuando el registrador ingresa los valores de precio o cantidad, no son números enteros o ingresa alguna cadena, lo que ocasionaría que el programa dejara de funcionar.
+2. ¿Qué estrategias podría usar para solucionar estos errores?
+Una estrategia para mitigar ese tipo de errores seria utilizar ciclos y condicionales que, al momento de ingresar un valor no deseado, se vuelva a pedir el ingreso del valor.
